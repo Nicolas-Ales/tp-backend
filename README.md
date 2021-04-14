@@ -2,6 +2,16 @@
 
 ## 1 - Enunciado
 
+### Sistema de gestión y reporte agricola
+Va a tener dos tipos de usuarios básicos, productor e ingeniero. El productor va a tener distintos lotes (con su ubicación en un mapa interactivo) donde va a tener información actual del lote y un conjunto de notas/mensajes asociados con este. El productor va a poder además agregar a un ingeniero a los lotes el cual va a poder crear notas informando alguna situación sobre el lote o tareas para hacer en el lote como por ejemplo una fumigación con un producto específico.
+
+ABMC: vamos a tener ABMC de usuarios, lotes y notas al menos.
+
+Listados: En la app al menos vamos a tener un listado simple de todos los lotes del productor/ingeniero y un listado de notas por lote donde se podrá filtrar u ordenar por fecha, tipo de nota y estado (completado/pendiente).
+
+![image](https://user-images.githubusercontent.com/53117190/114773829-e843e500-9d45-11eb-9c29-46682a8dafac.png)
+
+
 ### 1.1 - Desarrollo
 
 Desarrollar un backend utilizando una API REST o GraphQL y un frontend parcial con las siguientes caracterísitcas:
