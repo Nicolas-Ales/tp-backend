@@ -2,7 +2,7 @@
 
 ## 1 - Enunciado
 
-### Sistema de gestión y reporte agricola
+### Sistema de gestión y reporte agrícola
 Va a tener dos tipos de usuarios básicos, productor e ingeniero. El productor va a tener distintos lotes (con su ubicación en un mapa interactivo) donde va a tener información actual del lote y un conjunto de notas/mensajes asociados con este. El productor va a poder además agregar a un ingeniero a los lotes el cual va a poder crear notas informando alguna situación sobre el lote o tareas para hacer en el lote como por ejemplo una fumigación con un producto específico.
 
 ABMC: vamos a tener ABMC de usuarios, lotes y notas al menos.
