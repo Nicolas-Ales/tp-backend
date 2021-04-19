@@ -9,7 +9,7 @@ ABMC: vamos a tener ABMC de usuarios, lotes y notas al menos.
 
 Listados: En la app al menos vamos a tener un listado simple de todos los lotes del productor/ingeniero y un listado de notas por lote donde se podrá filtrar u ordenar por fecha, tipo de nota y estado (completado/pendiente).
 
-![image](https://user-images.githubusercontent.com/53117190/114773829-e843e500-9d45-11eb-9c29-46682a8dafac.png)
+![image](https://user-images.githubusercontent.com/53117190/115250314-d1afdc00-a0ff-11eb-9899-391a2196382d.png)
 
 
 ### 1.1 - Desarrollo
